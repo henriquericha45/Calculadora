@@ -45,6 +45,8 @@
     display: flex;
     width: 100%;
     background-color: blueviolet;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
 .tecla {
